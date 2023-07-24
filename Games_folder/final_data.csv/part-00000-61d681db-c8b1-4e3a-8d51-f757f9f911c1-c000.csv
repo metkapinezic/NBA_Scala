@@ -1,0 +1,1598 @@
+game_id,home_team_name,home_team_score,visitor_team_name,visitor_team_score,team_id,player_name,points,team,nb_steals
+841601,Miami Heat,83,Atlanta Hawks,92,1,De'Andre Hunter,35,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,John Collins,7,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Clint Capela,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Kevin Huerter,12,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Trae Young,11,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Delon Wright,7,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Danilo Gallinari,12,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Onyeka Okongwu,8,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Bogdan Bogdanovic,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Gorgui Dieng,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Jalen Johnson,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Kevin Knox,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,1,Skylar Mays,0,Atlanta Hawks,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Max Strus,15,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Gabe Vincent,9,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Tyler Herro,16,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Caleb Martin,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Duncan Robinson,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Dewayne Dedmon,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Udonis Haslem,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Haywood Highsmith,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Markieff Morris,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,Omer Yurtseven,0,Miami Heat,0
+841601,Miami Heat,83,Atlanta Hawks,92,16,PJ Tucker,0,Miami Heat,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Nicolas Batum,7,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Marcus Morris,3,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Ivica Zubac,2,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Norman Powell,16,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Reggie Jackson,12,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Amir Coffey,13,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Brandon Boston Jr.,4,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Isaiah Hartenstein,19,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Luke Kennard,5,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Terance Mann,14,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Robert Covington,14,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,13,Serge Ibaka,0,LA Clippers,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Ziaire Williams,10,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Jaren Jackson Jr.,26,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Steven Adams,9,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Desmond Bane,5,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Ja Morant,30,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Kyle Anderson,11,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Brandon Clarke,18,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,De'Anthony Melton,6,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,John Konchar,10,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Tyus Jones,7,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Jarrett Culver,3,Memphis Grizzlies,0
+474226,Memphis Grizzlies,135,LA Clippers,109,15,Xavier Tillman,0,Memphis Grizzlies,0
+474375,LA Clippers,93,New York Knicks,116,13,Brandon Boston Jr.,4,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,20,RJ Barrett,24,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Julius Randle,10,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Mitchell Robinson,12,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Evan Fournier,7,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Alec Burks,15,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Immanuel Quickley,21,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Jericho Sims,4,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Cameron Reddish,17,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Miles McBride,3,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Ryan Arcidiacono,3,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,20,Taj Gibson,0,New York Knicks,0
+474375,LA Clippers,93,New York Knicks,116,13,Nicolas Batum,7,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Marcus Morris,4,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Ivica Zubac,4,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Terance Mann,11,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Reggie Jackson,10,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Isaiah Hartenstein,14,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Luke Kennard,10,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Robert Covington,6,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Rodney Hood,3,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Semi Ojeleye,4,LA Clippers,0
+474375,LA Clippers,93,New York Knicks,116,13,Amir Coffey,16,LA Clippers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Javin DeLaurier,0,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Jaden Springer,7,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Paul Reed,20,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Filip Petrusev,8,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Isaiah Joe,21,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Tyrese Maxey,31,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Aaron Henry,2,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Rayjon Tucker,1,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Lamar Peters,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Juwan Durham,0,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Braxton Key,6,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Daishen Nix,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Mitch Ballock,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Charles Bassey,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Frank Mason,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,23,Charles Matthews,0,Philadelphia 76ers,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,DeVaughn Akoon-Purcell,12,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Jalen Johnson,13,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Jordan Bell,4,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Skylar Mays,20,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Sharife Cooper,21,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Eric Moreland,2,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Max Heidegger,3,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Justin Jaworski,0,Atlanta Hawks,0
+459132,Atlanta Hawks,88,Philadelphia 76ers,96,1,Jeremiah Martin,0,Atlanta Hawks,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Justise Winslow,13,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Jay Scrubb,0,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Terance Mann,4,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Marcus Morris,16,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Ivica Zubac,7,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Amir Coffey,7,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Reggie Jackson,19,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Isaiah Hartenstein,7,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Luke Kennard,14,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Eric Bledsoe,3,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Brandon Boston Jr.,19,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,13,Serge Ibaka,6,LA Clippers,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,P.J. Washington,10,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Ish Smith,0,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Nick Richards,1,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,JT Thor,0,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Kelly Oubre Jr.,0,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Cody Martin,8,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Miles Bridges,18,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Mason Plumlee,10,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,Terry Rozier,10,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,LaMelo Ball,23,Charlotte Hornets,0
+474162,Charlotte Hornets,90,LA Clippers,115,4,James Bouknight,10,Charlotte Hornets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Kevin Durant,55,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Kessler Edwards,9,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Andre Drummond,8,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Patty Mills,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Kyrie Irving,31,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Cam Thomas,5,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Nicolas Claxton,4,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,James Johnson,3,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Blake Griffin,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,LaMarcus Aldridge,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Seth Curry,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,David Duke Jr.,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,3,Day'Ron Sharpe,0,Brooklyn Nets,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Timothe Luwawu-Cabarrot,11,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,De'Andre Hunter,15,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Kevin Huerter,5,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Trae Young,36,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Bogdan Bogdanovic,8,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Onyeka Okongwu,6,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Delon Wright,9,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Lou Williams,8,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Clint Capela,9,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Gorgui Dieng,0,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Kevin Knox,0,Atlanta Hawks,0
+474573,Atlanta Hawks,122,Brooklyn Nets,115,1,Skylar Mays,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,DeVaughn Akoon-Purcell,11,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Jordan Bell,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Jalen Johnson,18,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Skylar Mays,16,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Sharife Cooper,21,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Max Heidegger,8,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Javin DeLaurier,4,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,AJ Lawson,2,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Nahziah Carter,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Juwan Durham,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Justin Jaworski,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Jeremiah Martin,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Admiral Schofield,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Ibi Watson,4,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,1,Eric Moreland,0,Atlanta Hawks,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Cassius Stanley,14,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Oshae Brissett,13,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Amida Brimah,3,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Chris Duarte,21,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Jordan Bone,4,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Keifer Sykes,3,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Isaiah Jackson,13,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Duane Washington Jr.,4,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,BJ Johnson,6,Indiana Pacers,0
+455107,Indiana Pacers,83,Atlanta Hawks,84,12,Tyrone Wallace,2,Indiana Pacers,0
+474400,LA Clippers,115,Washington Wizards,109,30,Kentavious Caldwell-Pope,16,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Kyle Kuzma,17,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Kristaps Porzingis,19,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Raul Neto,12,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Deni Avdija,0,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Daniel Gafford,14,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Thomas Bryant,0,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Anthony Gill,0,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,13,Luke Kennard,19,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Terance Mann,9,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Isaiah Hartenstein,4,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Brandon Boston Jr.,0,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Rodney Hood,0,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Semi Ojeleye,0,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,30,Ish Smith,4,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Tomas Satoransky,0,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,13,Nicolas Batum,8,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Marcus Morris,27,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Ivica Zubac,10,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Amir Coffey,7,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,13,Reggie Jackson,31,LA Clippers,0
+474400,LA Clippers,115,Washington Wizards,109,30,Rui Hachimura,18,Washington Wizards,0
+474400,LA Clippers,115,Washington Wizards,109,30,Corey Kispert,9,Washington Wizards,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Khris Middleton,19,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Giannis Antetokounmpo,18,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Brook Lopez,28,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Wesley Matthews,11,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Jrue Holiday,11,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Grayson Allen,13,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Thanasis Antetokounmpo,2,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Bobby Portis,13,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,George Hill,5,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Pat Connaughton,2,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Sandro Mamukelashvili,3,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Jevon Carter,0,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Jordan Nwora,2,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,17,Serge Ibaka,0,Milwaukee Bucks,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,DeMar DeRozan,40,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Patrick Williams,18,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Nikola Vucevic,7,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Tony Bradley,2,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Tyler Cook,0,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Malcolm Hill,0,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Marko Simonovic,0,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Matt Thomas,0,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Javonte Green,7,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Coby White,13,Chicago Bulls,0
+474591,Chicago Bulls,106,Milwaukee Bucks,127,5,Tristan Thompson,4,Chicago Bulls,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Jayson Tatum,30,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Grant Williams,9,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Al Horford,30,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Jaylen Brown,18,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Marcus Smart,18,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Daniel Theis,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Payton Pritchard,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Malik Fitts,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Luke Kornet,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Juwan Morgan,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Aaron Nesmith,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Nik Stauskas,0,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,2,Derrick White,11,Boston Celtics,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Wesley Matthews,12,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Giannis Antetokounmpo,34,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Brook Lopez,17,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Grayson Allen,7,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Jrue Holiday,16,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Bobby Portis,4,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Pat Connaughton,11,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,George Hill,5,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Jevon Carter,0,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Luca Vildoza,0,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Jordan Nwora,0,Milwaukee Bucks,0
+848397,Milwaukee Bucks,108,Boston Celtics,116,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Khris Middleton,15,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Giannis Antetokounmpo,30,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Brook Lopez,17,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,George Hill,10,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Pat Connaughton,10,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Carsen Edwards,5,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Jevon Carter,3,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Serge Ibaka,8,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Lindell Wigginton,2,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Jordan Nwora,1,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Thanasis Antetokounmpo,6,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Sandro Mamukelashvili,2,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Rayjon Tucker,0,Milwaukee Bucks,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Jerami Grant,0,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Cory Joseph,0,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Isaiah Livers,0,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Saddiq Bey,20,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Isaiah Stewart,5,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Killian Hayes,6,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Cade Cunningham,14,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Kelly Olynyk,17,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Braxton Key,5,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Frank Jackson,3,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,9,Rodney McGruder,26,Detroit Pistons,0
+474616,Detroit Pistons,101,Milwaukee Bucks,131,17,Bobby Portis,8,Milwaukee Bucks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Danilo Gallinari,17,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Onyeka Okongwu,3,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Kevin Huerter,8,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Trae Young,8,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Delon Wright,5,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Kyle Lowry,10,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Tyler Herro,6,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Dewayne Dedmon,5,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Duncan Robinson,27,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Gabe Vincent,8,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Caleb Martin,2,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Haywood Highsmith,0,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Omer Yurtseven,5,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Udonis Haslem,0,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Markieff Morris,0,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Victor Oladipo,0,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,John Collins,10,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Timothe Luwawu-Cabarrot,5,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Gorgui Dieng,3,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Jalen Johnson,0,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Skylar Mays,2,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,1,Kevin Knox,10,Atlanta Hawks,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Jimmy Butler,21,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,PJ Tucker,16,Miami Heat,0
+832820,Miami Heat,115,Atlanta Hawks,91,16,Bam Adebayo,6,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Jimmy Butler,45,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,De'Andre Hunter,16,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Danilo Gallinari,2,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,John Collins,13,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Kevin Huerter,9,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Delon Wright,9,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Bogdan Bogdanovic,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Onyeka Okongwu,2,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Gorgui Dieng,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Jalen Johnson,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Kevin Knox,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,1,Skylar Mays,0,Atlanta Hawks,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,PJ Tucker,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Bam Adebayo,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Max Strus,14,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Kyle Lowry,9,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Tyler Herro,15,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Dewayne Dedmon,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Caleb Martin,3,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Udonis Haslem,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Haywood Highsmith,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Markieff Morris,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Victor Oladipo,0,Miami Heat,0
+834976,Miami Heat,86,Atlanta Hawks,76,16,Gabe Vincent,0,Miami Heat,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Bobby Portis,18,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Giannis Antetokounmpo,18,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Brook Lopez,9,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Wesley Matthews,3,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Grayson Allen,22,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Jevon Carter,0,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Pat Connaughton,11,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Serge Ibaka,5,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Thanasis Antetokounmpo,4,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Zach LaVine,15,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Alex Caruso,9,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Coby White,6,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Tristan Thompson,2,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Derrick Jones Jr.,2,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Javonte Green,0,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Ayo Dosunmu,4,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Troy Brown Jr.,2,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Tony Bradley,10,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Marko Simonovic,0,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Jordan Nwora,2,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Luca Vildoza,3,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,17,Rayjon Tucker,0,Milwaukee Bucks,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,DeMar DeRozan,11,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Patrick Williams,1,Chicago Bulls,0
+837570,Chicago Bulls,81,Milwaukee Bucks,111,5,Nikola Vucevic,19,Chicago Bulls,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Nik Stauskas,0,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Aaron Nesmith,0,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Sam Hauser,0,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Luke Kornet,0,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Juwan Morgan,0,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Serge Ibaka,0,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Rayjon Tucker,0,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Jayson Tatum,21,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Al Horford,12,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Robert Williams III,6,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Jaylen Brown,12,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Marcus Smart,10,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Derrick White,10,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Grant Williams,8,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Payton Pritchard,6,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Daniel Theis,2,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,2,Malik Fitts,2,Boston Celtics,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Bobby Portis,15,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Giannis Antetokounmpo,24,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Brook Lopez,6,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Wesley Matthews,5,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Jrue Holiday,25,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Grayson Allen,11,Milwaukee Bucks,0
+844654,Boston Celtics,89,Milwaukee Bucks,101,17,Pat Connaughton,8,Milwaukee Bucks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,DeVaughn Akoon-Purcell,18,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Jalen Johnson,25,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Eric Moreland,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Ibi Watson,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Skylar Mays,26,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Nahziah Carter,2,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Jordan Bell,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Sharife Cooper,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Juwan Durham,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,AJ Lawson,4,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Admiral Schofield,12,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Justin Jaworski,5,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Javin DeLaurier,2,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Max Heidegger,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,1,Jeremiah Martin,0,Atlanta Hawks,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,D.J. Stewart Jr.,2,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,KZ Okpala,6,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Omer Yurtseven,21,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Max Strus,24,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,DeJon Jarreau,14,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Javonte Smart,7,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Dru Smith,9,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,RJ Nembhard Jr.,2,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Brandon McCoy,3,Miami Heat,0
+463448,Miami Heat,90,Atlanta Hawks,94,16,Micah Potter,2,Miami Heat,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Giannis Antetokounmpo,28,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Brook Lopez,2,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Wesley Matthews,4,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Jrue Holiday,19,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Grayson Allen,5,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Malik Fitts,0,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Sam Hauser,2,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Pat Connaughton,13,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Jevon Carter,2,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Luca Vildoza,0,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Jordan Nwora,0,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Serge Ibaka,0,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,17,Rayjon Tucker,0,Milwaukee Bucks,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Jayson Tatum,29,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Al Horford,11,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Robert Williams III,10,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Jaylen Brown,30,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Derrick White,0,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Grant Williams,21,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Payton Pritchard,6,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Nik Stauskas,0,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Aaron Nesmith,0,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Luke Kornet,0,Boston Celtics,0
+845520,Boston Celtics,109,Milwaukee Bucks,86,2,Juwan Morgan,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Wesley Matthews,3,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Grayson Allen,1,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Jrue Holiday,21,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Jevon Carter,0,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,George Hill,0,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Luca Vildoza,2,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Jordan Nwora,2,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Rayjon Tucker,0,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Serge Ibaka,0,Milwaukee Bucks,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Jayson Tatum,23,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Grant Williams,27,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Al Horford,6,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Jaylen Brown,19,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Marcus Smart,11,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Daniel Theis,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Payton Pritchard,14,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Malik Fitts,3,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Nik Stauskas,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Aaron Nesmith,3,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Luke Kornet,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Juwan Morgan,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Derrick White,3,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,2,Robert Williams III,0,Boston Celtics,0
+851563,Boston Celtics,109,Milwaukee Bucks,81,17,Pat Connaughton,2,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Khris Middleton,17,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Khris Middleton,17,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Giannis Antetokounmpo,28,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Giannis Antetokounmpo,28,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Bobby Portis,24,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Bobby Portis,24,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Pat Connaughton,18,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Pat Connaughton,18,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Jrue Holiday,27,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Jrue Holiday,27,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Wesley Matthews,3,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Wesley Matthews,3,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Donte DiVincenzo,9,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Donte DiVincenzo,9,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Jordan Nwora,2,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Jordan Nwora,2,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Rodney Hood,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Rodney Hood,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Lindell Wigginton,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Lindell Wigginton,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Sandro Mamukelashvili,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Sandro Mamukelashvili,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Semi Ojeleye,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Semi Ojeleye,0,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Greg Monroe,9,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,17,Greg Monroe,9,Milwaukee Bucks,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Nicolas Batum,2,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Nicolas Batum,2,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Marcus Morris,20,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Marcus Morris,20,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Ivica Zubac,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Ivica Zubac,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Amir Coffey,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Amir Coffey,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Reggie Jackson,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Reggie Jackson,10,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Serge Ibaka,7,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Serge Ibaka,7,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Brandon Boston Jr.,2,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Brandon Boston Jr.,2,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Luke Kennard,5,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Luke Kennard,5,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Norman Powell,28,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Norman Powell,28,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Terance Mann,6,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Terance Mann,6,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Robert Covington,13,LA Clippers,0
+474216,LA Clippers,113,Milwaukee Bucks,137,13,Robert Covington,13,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Ivica Zubac,19,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Terance Mann,9,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Reggie Jackson,36,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Amir Coffey,8,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Isaiah Hartenstein,12,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Trevor Ariza,0,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Austin Reaves,9,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,LeBron James,26,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Dwight Howard,2,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Malik Monk,12,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Russell Westbrook,17,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Carmelo Anthony,13,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Stanley Johnson,8,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Luke Kennard,11,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Rodney Hood,0,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Semi Ojeleye,0,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Avery Bradley,0,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Talen Horton-Tucker,0,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Nicolas Batum,6,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Marcus Morris,14,LA Clippers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Kent Bazemore,6,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,D.J. Augustin,3,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Wayne Ellington,12,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,14,Wenyen Gabriel,3,Los Angeles Lakers,0
+474353,LA Clippers,132,Los Angeles Lakers,111,13,Robert Covington,12,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Justise Winslow,2,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Torrey Craig,8,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Isaiah Jackson,26,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Chris Duarte,8,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Caris LeVert,17,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Terance Mann,6,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Marcus Morris,9,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Serge Ibaka,14,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Amir Coffey,27,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Reggie Jackson,21,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Nicolas Batum,13,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Isaiah Hartenstein,6,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Luke Kennard,2,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Eric Bledsoe,13,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Brandon Boston Jr.,3,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,13,Jay Scrubb,0,LA Clippers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Terry Taylor,15,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Duane Washington Jr.,16,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Keifer Sykes,0,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Oshae Brissett,0,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Jeremy Lamb,9,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Lance Stephenson,10,Indiana Pacers,0
+474168,Indiana Pacers,122,LA Clippers,116,12,Justin Holiday,13,Indiana Pacers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Nicolas Batum,0,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Marcus Morris,10,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Ivica Zubac,6,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Terance Mann,19,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Reggie Jackson,17,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Isaiah Hartenstein,11,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Carmelo Anthony,18,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Stanley Johnson,0,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Kent Bazemore,0,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Wayne Ellington,0,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,DeAndre Jordan,0,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Amir Coffey,14,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Robert Covington,10,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Brandon Boston Jr.,0,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Rodney Hood,0,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Semi Ojeleye,0,LA Clippers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,LeBron James,21,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Trevor Ariza,2,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Dwight Howard,14,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Austin Reaves,6,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Russell Westbrook,18,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Malik Monk,7,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,14,Talen Horton-Tucker,16,Los Angeles Lakers,0
+474312,Los Angeles Lakers,102,LA Clippers,105,13,Luke Kennard,18,LA Clippers,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,DeMar DeRozan,41,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Patrick Williams,10,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Nikola Vucevic,24,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Zach LaVine,20,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Alex Caruso,9,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Tristan Thompson,0,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Coby White,5,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Derrick Jones Jr.,3,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Ayo Dosunmu,0,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Javonte Green,2,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Tony Bradley,0,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Troy Brown Jr.,0,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,5,Marko Simonovic,0,Chicago Bulls,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Khris Middleton,18,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Giannis Antetokounmpo,33,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Brook Lopez,25,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Wesley Matthews,11,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Jrue Holiday,15,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Grayson Allen,3,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Bobby Portis,2,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Jevon Carter,0,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Pat Connaughton,3,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Serge Ibaka,0,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+835842,Milwaukee Bucks,110,Chicago Bulls,114,17,Jordan Nwora,0,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Jayson Tatum,46,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Grant Williams,2,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Al Horford,2,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Jaylen Brown,22,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Marcus Smart,21,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Derrick White,9,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Jevon Carter,2,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Thanasis Antetokounmpo,1,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Daniel Theis,4,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Payton Pritchard,0,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Nik Stauskas,2,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Aaron Nesmith,0,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Malik Fitts,0,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Luke Kornet,0,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,2,Juwan Morgan,0,Boston Celtics,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Wesley Matthews,4,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Giannis Antetokounmpo,44,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Brook Lopez,6,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Grayson Allen,3,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Jrue Holiday,17,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Pat Connaughton,14,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Luca Vildoza,0,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Jordan Nwora,0,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Rayjon Tucker,0,Milwaukee Bucks,0
+850702,Milwaukee Bucks,95,Boston Celtics,108,17,Serge Ibaka,0,Milwaukee Bucks,0
+474133,Orlando Magic,102,LA Clippers,111,13,Terance Mann,14,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Nicolas Batum,12,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Ivica Zubac,8,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Amir Coffey,19,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Reggie Jackson,9,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Eric Bledsoe,13,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Luke Kennard,17,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Isaiah Hartenstein,5,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Justise Winslow,7,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Brandon Boston Jr.,5,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Serge Ibaka,0,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,13,Jay Scrubb,2,LA Clippers,0
+474133,Orlando Magic,102,LA Clippers,111,22,Wendell Carter Jr.,11,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Mo Bamba,10,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Jalen Suggs,14,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Gary Harris,14,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Chuma Okeke,4,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Ignas Brazdeikis,0,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Robin Lopez,0,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Moritz Wagner,2,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Terrence Ross,7,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Admiral Schofield,0,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Cole Anthony,19,Orlando Magic,0
+474133,Orlando Magic,102,LA Clippers,111,22,Franz Wagner,21,Orlando Magic,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Miles Bridges,12,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,P.J. Washington,17,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Mason Plumlee,3,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Terry Rozier,21,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,LaMelo Ball,26,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,James Bouknight,0,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Gorgui Dieng,3,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Cody Martin,2,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Montrezl Harrell,9,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Kelly Oubre Jr.,3,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Jalen McDaniels,7,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Isaiah Thomas,3,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Kai Jones,0,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,Nick Richards,0,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,4,JT Thor,0,Charlotte Hornets,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,De'Andre Hunter,22,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Danilo Gallinari,18,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Clint Capela,15,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Kevin Huerter,13,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Trae Young,24,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Bogdan Bogdanovic,13,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Delon Wright,8,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Onyeka Okongwu,3,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Timothe Luwawu-Cabarrot,8,Atlanta Hawks,0
+830800,Atlanta Hawks,132,Charlotte Hornets,103,1,Jalen Johnson,3,Atlanta Hawks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Reggie Bullock,16,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Dorian Finney-Smith,11,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Dwight Powell,22,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Luka Doncic,32,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Jalen Brunson,15,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Spencer Dinwiddie,11,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Josh Green,3,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Frank Ntilikina,0,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Theo Pinson,0,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Khris Middleton,11,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Giannis Antetokounmpo,28,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Brook Lopez,14,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Wesley Matthews,2,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Jrue Holiday,20,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Grayson Allen,8,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Jevon Carter,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Serge Ibaka,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Sandro Mamukelashvili,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Jordan Nwora,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,George Hill,0,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Bobby Portis,17,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,17,Pat Connaughton,12,Milwaukee Bucks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Marquese Chriss,2,Dallas Mavericks,0
+474575,Milwaukee Bucks,112,Dallas Mavericks,118,7,Davis Bertans,6,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Robert Covington,5,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Brandon Boston Jr.,0,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Nicolas Batum,0,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Marcus Morris,20,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Ivica Zubac,11,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Terance Mann,21,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Reggie Jackson,24,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Amir Coffey,11,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Isaiah Hartenstein,2,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Rodney Hood,0,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Reggie Bullock,17,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Dorian Finney-Smith,3,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Dwight Powell,6,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Jalen Brunson,22,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Luka Doncic,45,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Trey Burke,0,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Sterling Brown,0,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,13,Luke Kennard,5,LA Clippers,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Boban Marjanovic,0,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Theo Pinson,0,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Josh Green,2,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Maxi Kleber,0,Dallas Mavericks,0
+474260,Dallas Mavericks,97,LA Clippers,99,7,Frank Ntilikina,2,Dallas Mavericks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Kevin Durant,26,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Sandro Mamukelashvili,0,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Jordan Nwora,0,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Khris Middleton,16,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Giannis Antetokounmpo,44,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Brook Lopez,5,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Wesley Matthews,11,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Jrue Holiday,19,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Pat Connaughton,11,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Serge Ibaka,0,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Bruce Brown,23,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Andre Drummond,4,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Seth Curry,16,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Kyrie Irving,25,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Patty Mills,3,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Nicolas Claxton,11,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Goran Dragic,5,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Kessler Edwards,6,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,James Johnson,0,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,3,Blake Griffin,0,Brooklyn Nets,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Grayson Allen,5,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Bobby Portis,9,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,George Hill,0,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Jevon Carter,0,Milwaukee Bucks,0
+474558,Brooklyn Nets,119,Milwaukee Bucks,120,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Paul Eboua,4,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Jalen Crutcher,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Jemerrio Jones,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,E.J. Montgomery,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,John Mooney,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Mamadi Diakite,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Jordan Nwora,22,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Sandro Mamukelashvili,10,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Brandon Randolph,9,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Theo Pinson,13,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Steven Enoch,15,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Mike Smith,6,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Tyree White,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,DMitrik Trice,0,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,David Duke Jr.,10,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Alize Johnson,9,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Reggie Perry,13,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Quinndary Weatherspoon,15,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Brandon Knight,9,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Kessler Edwards,2,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Jordan Bowden,0,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,17,Giorgos Kalaitzakis,12,Milwaukee Bucks,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Cam Thomas,22,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Kaiser Gates,6,Brooklyn Nets,0
+457259,Brooklyn Nets,97,Milwaukee Bucks,91,3,Day'Ron Sharpe,11,Brooklyn Nets,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jay Scrubb,24,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jay Scrubb,24,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Amir Coffey,5,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Amir Coffey,5,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Daniel Oturu,12,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Daniel Oturu,12,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jason Preston,2,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jason Preston,2,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Keon Johnson,8,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Keon Johnson,8,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Brandon Boston Jr.,10,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Brandon Boston Jr.,10,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Lydell Elmore,0,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Lydell Elmore,0,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jordan Ford,2,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Jordan Ford,2,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Isaiah Hicks,5,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Isaiah Hicks,5,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Kerwin Roach,10,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Kerwin Roach,10,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Kaleb Wesson,0,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,13,Kaleb Wesson,0,LA Clippers,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jordan Nwora,30,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jordan Nwora,30,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Mamadi Diakite,13,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Mamadi Diakite,13,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Sandro Mamukelashvili,11,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Sandro Mamukelashvili,11,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Brandon Randolph,11,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Brandon Randolph,11,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Theo Pinson,9,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Theo Pinson,9,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Mike Smith,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Mike Smith,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,DMitrik Trice,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,DMitrik Trice,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Paul Eboua,3,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Paul Eboua,3,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Tyree White,2,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Tyree White,2,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Steven Enoch,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Steven Enoch,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jemerrio Jones,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jemerrio Jones,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,E.J. Montgomery,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,E.J. Montgomery,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,John Mooney,2,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,John Mooney,2,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jalen Crutcher,0,Milwaukee Bucks,0
+452667,Milwaukee Bucks,81,LA Clippers,78,17,Jalen Crutcher,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Brandon Randolph,5,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Mamadi Diakite,9,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Sandro Mamukelashvili,20,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Theo Pinson,5,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Jalen Crutcher,7,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,DMitrik Trice,24,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Jemerrio Jones,5,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Steven Enoch,4,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Tyree White,5,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Paul Eboua,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Mike Smith,3,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Georgios Kalaitzakis,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,E.J. Montgomery,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,John Mooney,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,17,Jordan Nwora,0,Milwaukee Bucks,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Deonte Burton,13,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Zylan Cheatham,13,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Zeke Nnaji,3,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Davon Reed,7,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Nah'Shon Hyland,20,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Caleb Agada,12,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Jason Burnell,6,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Giorgi Bezhanishvili,2,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Eugene German,9,Denver Nuggets,0
+467896,Denver Nuggets,94,Milwaukee Bucks,87,8,Chudier Bile,0,Denver Nuggets,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Brian Bowen II,9,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Jaden McDaniels,17,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Nathan Knight,7,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Jaylen Nowell,26,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,McKinley Wright IV,7,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Malcolm Miller,2,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Kerry Blackshear Jr.,3,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Isaiah Miller,6,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Jared Brownridge,12,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Cullen Russo,0,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,London Perrantes,0,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Karim Mane,2,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,John Egbunu,0,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Matt Lewis,0,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,18,Kenny Wooten,0,Minnesota Timberwolves,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Jordan Nwora,11,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Mamadi Diakite,9,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Sandro Mamukelashvili,4,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Brandon Randolph,17,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Theo Pinson,0,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Georgios Kalaitzakis,9,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Steven Enoch,2,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Jalen Crutcher,4,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,Paul Eboua,5,Milwaukee Bucks,0
+461295,Milwaukee Bucks,64,Minnesota Timberwolves,91,17,E.J. Montgomery,0,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Bobby Portis,14,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Giannis Antetokounmpo,32,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Brook Lopez,2,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Wesley Matthews,6,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Jrue Holiday,26,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Grayson Allen,27,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Jordan Nwora,0,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Serge Ibaka,4,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Rayjon Tucker,0,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,DeMar DeRozan,23,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Patrick Williams,20,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Nikola Vucevic,11,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Zach LaVine,24,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Alex Caruso,0,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Coby White,2,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Tristan Thompson,0,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Derrick Jones Jr.,5,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Ayo Dosunmu,8,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Javonte Green,2,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Troy Brown Jr.,0,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Tony Bradley,0,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,5,Marko Simonovic,0,Chicago Bulls,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Pat Connaughton,5,Milwaukee Bucks,0
+839443,Chicago Bulls,95,Milwaukee Bucks,119,17,Jevon Carter,3,Milwaukee Bucks,0
+474146,Miami Heat,121,LA Clippers,114,13,Terance Mann,4,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Nicolas Batum,12,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Ivica Zubac,6,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Amir Coffey,15,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Reggie Jackson,13,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Luke Kennard,23,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Brandon Boston Jr.,4,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Eric Bledsoe,19,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Justise Winslow,10,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Isaiah Hartenstein,8,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Jay Scrubb,0,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,13,Serge Ibaka,0,LA Clippers,0
+474146,Miami Heat,121,LA Clippers,114,16,Jimmy Butler,26,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Bam Adebayo,20,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Duncan Robinson,16,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Gabe Vincent,23,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Tyler Herro,11,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Dewayne Dedmon,2,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Max Strus,5,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Caleb Martin,0,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Kyle Guy,0,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Udonis Haslem,0,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,Omer Yurtseven,0,Miami Heat,0
+474146,Miami Heat,121,LA Clippers,114,16,PJ Tucker,18,Miami Heat,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,De'Andre Hunter,22,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Danilo Gallinari,26,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Clint Capela,18,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Kevin Huerter,11,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Trae Young,28,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Bogdan Bogdanovic,14,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Onyeka Okongwu,8,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Delon Wright,2,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Jae'Sean Tate,5,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Alperen Sengun,9,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Kevin Porter Jr.,26,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Jalen Green,41,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Kenyon Martin Jr.,11,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Josh Christopher,6,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Jalen Johnson,0,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Skylar Mays,0,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Kevin Knox,1,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Sharife Cooper,0,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,1,Gorgui Dieng,0,Atlanta Hawks,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Eric Gordon,0,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Garrison Mathews,14,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Bruno Fernando,0,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,David Nwaba,2,Houston Rockets,0
+474629,Houston Rockets,114,Atlanta Hawks,130,11,Usman Garuba,0,Houston Rockets,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Jayson Tatum,10,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Al Horford,22,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Jaylen Brown,27,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Marcus Smart,9,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Grant Williams,9,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Malik Fitts,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Luke Kornet,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Juwan Morgan,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Aaron Nesmith,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Derrick White,14,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Payton Pritchard,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Daniel Theis,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,2,Nik Stauskas,0,Boston Celtics,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Wesley Matthews,3,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Giannis Antetokounmpo,42,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Brook Lopez,13,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Grayson Allen,0,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Jrue Holiday,25,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Bobby Portis,9,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Pat Connaughton,11,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,George Hill,0,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Jevon Carter,0,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Serge Ibaka,0,Milwaukee Bucks,0
+847246,Milwaukee Bucks,103,Boston Celtics,101,17,Jordan Nwora,0,Milwaukee Bucks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Aaron Nesmith,11,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Dedric Lawson,0,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Romeo Langford,12,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Carsen Edwards,17,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Payton Pritchard,23,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Yam Madar,8,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Sam Hauser,5,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Zach Auguste,2,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Juhann Begarin,7,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,Aric Holman,0,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,2,K.J. Lawson,0,Boston Celtics,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,DeVaughn Akoon-Purcell,13,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Jalen Johnson,20,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Jordan Bell,6,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Skylar Mays,13,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Sharife Cooper,11,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Admiral Schofield,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Ibi Watson,8,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Javin DeLaurier,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Max Heidegger,12,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Nahziah Carter,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Juwan Durham,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Justin Jaworski,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Jeremiah Martin,0,Atlanta Hawks,0
+451506,Atlanta Hawks,83,Boston Celtics,85,1,Eric Moreland,0,Atlanta Hawks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Amir Coffey,32,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Amir Coffey,32,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Robert Covington,43,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Robert Covington,43,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Ivica Zubac,11,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Ivica Zubac,11,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Luke Kennard,23,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Luke Kennard,23,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Terance Mann,18,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Terance Mann,18,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Isaiah Hartenstein,14,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Isaiah Hartenstein,14,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Nicolas Batum,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Nicolas Batum,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Xavier Moon,7,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Xavier Moon,7,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Rodney Hood,5,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Rodney Hood,5,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Reggie Jackson,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Reggie Jackson,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Marcus Morris,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,13,Marcus Morris,0,LA Clippers,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Jordan Nwora,28,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Jordan Nwora,28,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Bobby Portis,25,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Bobby Portis,25,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Serge Ibaka,9,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Serge Ibaka,9,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Pat Connaughton,5,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Pat Connaughton,5,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Jevon Carter,18,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Jevon Carter,18,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Sandro Mamukelashvili,8,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Sandro Mamukelashvili,8,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,George Hill,4,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,George Hill,4,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Thanasis Antetokounmpo,12,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Thanasis Antetokounmpo,12,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Grayson Allen,0,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Grayson Allen,0,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Wesley Matthews,0,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Wesley Matthews,0,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Lindell Wigginton,10,Milwaukee Bucks,0
+474561,Milwaukee Bucks,119,LA Clippers,153,17,Lindell Wigginton,10,Milwaukee Bucks,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Nicolas Batum,13,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Nicolas Batum,13,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Marcus Morris,13,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Marcus Morris,13,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Ivica Zubac,24,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Ivica Zubac,24,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Amir Coffey,8,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Amir Coffey,8,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Reggie Jackson,24,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Reggie Jackson,24,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Isaiah Hartenstein,2,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Isaiah Hartenstein,2,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Terance Mann,6,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Terance Mann,6,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Gorgui Dieng,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Gorgui Dieng,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Danilo Gallinari,13,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Danilo Gallinari,13,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Lou Williams,2,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Lou Williams,2,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Onyeka Okongwu,6,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Onyeka Okongwu,6,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Delon Wright,2,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Delon Wright,2,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Kevin Knox,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Kevin Knox,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Skylar Mays,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Skylar Mays,0,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Luke Kennard,14,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Luke Kennard,14,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Brandon Boston Jr.,2,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Brandon Boston Jr.,2,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Rodney Hood,0,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Rodney Hood,0,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Semi Ojeleye,0,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,13,Semi Ojeleye,0,LA Clippers,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,De'Andre Hunter,12,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,De'Andre Hunter,12,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,John Collins,9,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,John Collins,9,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Clint Capela,14,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Clint Capela,14,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Kevin Huerter,16,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Kevin Huerter,16,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Trae Young,27,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Trae Young,27,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Bogdan Bogdanovic,11,Atlanta Hawks,0
+474408,Atlanta Hawks,112,LA Clippers,106,1,Bogdan Bogdanovic,11,Atlanta Hawks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Jordan Nwora,24,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Thanasis Antetokounmpo,27,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Sandro Mamukelashvili,28,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Jevon Carter,3,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Jrue Holiday,0,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Lindell Wigginton,18,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Rayjon Tucker,15,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Pat Connaughton,0,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Caris LeVert,6,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Lauri Markkanen,23,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Evan Mobley,18,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Isaac Okoro,4,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Darius Garland,11,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Kevin Love,32,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Rajon Rondo,6,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Wesley Matthews,0,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Khris Middleton,0,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,17,Bobby Portis,0,Milwaukee Bucks,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Cedi Osman,15,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Lamar Stevens,8,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Dylan Windler,2,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Moses Brown,8,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Brandon Goodwin,0,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,RJ Nembhard Jr.,0,Cleveland Cavaliers,0
+474625,Cleveland Cavaliers,133,Milwaukee Bucks,115,6,Ed Davis,0,Cleveland Cavaliers,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Jaylen Brown,22,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Grant Williams,4,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Derrick White,19,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Marcus Smart,29,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Aaron Nesmith,0,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Pat Connaughton,6,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Jevon Carter,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Bobby Portis,17,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,George Hill,2,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Serge Ibaka,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Sandro Mamukelashvili,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Jordan Nwora,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Lindell Wigginton,0,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Sam Hauser,11,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Payton Pritchard,12,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Luke Kornet,2,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Malik Fitts,0,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Matt Ryan,0,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Brodric Thomas,0,Boston Celtics,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Brook Lopez,15,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Jrue Holiday,29,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Khris Middleton,22,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,17,Giannis Antetokounmpo,29,Milwaukee Bucks,0
+474608,Milwaukee Bucks,127,Boston Celtics,121,2,Daniel Theis,22,Boston Celtics,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,De'Andre Hunter,10,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Danilo Gallinari,14,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Clint Capela,7,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Kevin Huerter,13,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Trae Young,38,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Bogdan Bogdanovic,19,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Moses Brown,0,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Ed Davis,0,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Delon Wright,2,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Onyeka Okongwu,2,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Timothe Luwawu-Cabarrot,2,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Gorgui Dieng,0,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Jalen Johnson,0,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Kevin Knox,0,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,1,Skylar Mays,0,Atlanta Hawks,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Cedi Osman,0,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Lamar Stevens,0,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Dylan Windler,0,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Lauri Markkanen,26,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Evan Mobley,18,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Jarrett Allen,11,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Caris LeVert,16,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Darius Garland,21,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Isaac Okoro,6,Cleveland Cavaliers,0
+831662,Cleveland Cavaliers,101,Atlanta Hawks,107,6,Kevin Love,3,Cleveland Cavaliers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Khris Middleton,22,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Giannis Antetokounmpo,40,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Brook Lopez,17,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Wesley Matthews,5,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Jrue Holiday,18,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Bobby Portis,3,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Grayson Allen,10,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Pat Connaughton,2,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,George Hill,1,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Serge Ibaka,0,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Jevon Carter,0,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,17,Jordan Nwora,0,Milwaukee Bucks,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Tyrese Maxey,7,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,James Harden,32,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Georges Niang,9,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Danny Green,9,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Paul Millsap,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Shake Milton,6,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Charles Brown,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Isaiah Joe,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,DeAndre Jordan,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Furkan Korkmaz,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Paul Reed,0,Philadelphia 76ers,0
+474540,Philadelphia 76ers,116,Milwaukee Bucks,118,23,Matisse Thybulle,2,Philadelphia 76ers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Nicolas Batum,18,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Nicolas Batum,18,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Marcus Morris,23,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Marcus Morris,23,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Ivica Zubac,12,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Ivica Zubac,12,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Terance Mann,2,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Terance Mann,2,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Reggie Jackson,14,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Reggie Jackson,14,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Amir Coffey,6,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Amir Coffey,6,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Luke Kennard,11,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Luke Kennard,11,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Isaiah Hartenstein,4,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Isaiah Hartenstein,4,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Chris Paul,17,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Chris Paul,17,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,JaVale McGee,8,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,JaVale McGee,8,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Elfrid Payton,4,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Elfrid Payton,4,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Cameron Johnson,9,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Cameron Johnson,9,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Torrey Craig,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Torrey Craig,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Aaron Holiday,3,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Aaron Holiday,3,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Bismack Biyombo,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Bismack Biyombo,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Mikal Bridges,19,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Mikal Bridges,19,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Jae Crowder,5,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Jae Crowder,5,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Deandre Ayton,12,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Deandre Ayton,12,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Devin Booker,26,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Devin Booker,26,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Ish Wainright,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,24,Ish Wainright,0,Phoenix Suns,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Robert Covington,6,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Robert Covington,6,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Brandon Boston Jr.,0,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Brandon Boston Jr.,0,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Rodney Hood,0,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Rodney Hood,0,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Semi Ojeleye,0,LA Clippers,0
+474281,Phoenix Suns,103,LA Clippers,96,13,Semi Ojeleye,0,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Scottie Barnes,15,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Pascal Siakam,31,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Khem Birch,9,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Fred VanVleet,21,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Precious Achiuwa,11,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Reggie Jackson,23,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Terance Mann,16,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Luke Kennard,0,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Isaiah Hartenstein,12,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Robert Covington,7,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Brandon Boston Jr.,0,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Semi Ojeleye,0,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Chris Boucher,6,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Thaddeus Young,3,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Armoni Brooks,0,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Dalano Banton,0,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Svi Mykhailiuk,0,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Yuta Watanabe,0,Toronto Raptors,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Marcus Morris,22,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Ivica Zubac,2,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Rodney Hood,0,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Nicolas Batum,8,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,13,Amir Coffey,10,LA Clippers,0
+474452,LA Clippers,100,Toronto Raptors,103,28,Gary Trent Jr.,7,Toronto Raptors,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,DeVaughn Akoon-Purcell,13,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Admiral Schofield,9,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Juwan Durham,4,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Ibi Watson,6,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Sharife Cooper,6,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Javin DeLaurier,18,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Tyler Hall,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Trey Davis,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Rokas Jokubaitis,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,AJ Lawson,7,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Nahziah Carter,6,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Justin Jaworski,16,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Jordan Bell,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Max Heidegger,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Jalen Johnson,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Jeremiah Martin,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Skylar Mays,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,1,Eric Moreland,0,Atlanta Hawks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Wayne Selden,12,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Obi Toppin,11,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Justin Patton,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Reid Travis,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Luca Vildoza,0,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Jericho Sims,6,New York Knicks,0
+467897,New York Knicks,104,Atlanta Hawks,85,20,Quentin Grimes,26,New York Knicks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Kevin Huerter,22,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Timothe Luwawu-Cabarrot,13,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Clint Capela,22,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Delon Wright,9,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Trae Young,14,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Bogdan Bogdanovic,29,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Jalen Johnson,12,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Onyeka Okongwu,5,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Lou Williams,6,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Buddy Hield,26,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Justin Anderson,9,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Goga Bitadze,14,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Tyrese Haliburton,25,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Keifer Sykes,16,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Jalen Smith,9,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Gorgui Dieng,0,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,De'Andre Hunter,0,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,1,Kevin Knox,0,Atlanta Hawks,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Terry Taylor,11,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Lance Stephenson,13,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Oshae Brissett,0,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Malcolm Brogdon,0,Indiana Pacers,0
+474530,Indiana Pacers,123,Atlanta Hawks,132,12,Duane Washington Jr.,0,Indiana Pacers,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Jimmy Butler,20,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,PJ Tucker,11,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Bam Adebayo,13,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Max Strus,20,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Kyle Lowry,6,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Tyler Herro,24,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Dewayne Dedmon,7,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Udonis Haslem,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Haywood Highsmith,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Gabe Vincent,3,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Duncan Robinson,6,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Victor Oladipo,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Omer Yurtseven,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,De'Andre Hunter,17,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Danilo Gallinari,11,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,John Collins,6,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Kevin Huerter,13,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Trae Young,24,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Bogdan Bogdanovic,18,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Caleb Martin,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,16,Markieff Morris,0,Miami Heat,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Delon Wright,13,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Onyeka Okongwu,9,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Gorgui Dieng,0,Atlanta Hawks,0
+837569,Atlanta Hawks,111,Miami Heat,110,1,Jalen Johnson,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Kentavious Caldwell-Pope,9,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Kristaps Porzingis,26,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Corey Kispert,12,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Tomas Satoransky,9,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Deni Avdija,9,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Daniel Gafford,12,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Ish Smith,9,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Kevin Knox,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Gorgui Dieng,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Onyeka Okongwu,8,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Jalen Johnson,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Sharife Cooper,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Anthony Gill,4,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Thomas Bryant,2,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Raul Neto,2,Washington Wizards,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,De'Andre Hunter,10,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Danilo Gallinari,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Clint Capela,19,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Skylar Mays,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Kevin Huerter,5,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Trae Young,30,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Bogdan Bogdanovic,0,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,1,Delon Wright,2,Atlanta Hawks,0
+474603,Atlanta Hawks,74,Washington Wizards,103,30,Rui Hachimura,9,Washington Wizards,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,De'Andre Hunter,2,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Danilo Gallinari,7,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Clint Capela,17,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Kevin Huerter,15,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Trae Young,35,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Bogdan Bogdanovic,25,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Timothe Luwawu-Cabarrot,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Javonte Smart,0,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Gabe Vincent,11,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Duncan Robinson,8,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Udonis Haslem,0,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Haywood Highsmith,0,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Markieff Morris,0,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Onyeka Okongwu,6,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Sharife Cooper,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Gorgui Dieng,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Jalen Johnson,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Kevin Knox,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,1,Skylar Mays,0,Atlanta Hawks,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Caleb Martin,8,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Bam Adebayo,24,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Max Strus,8,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Kyle Lowry,16,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Tyler Herro,15,Miami Heat,0
+474615,Miami Heat,113,Atlanta Hawks,109,16,Mychal Mulder,0,Miami Heat,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Wesley Matthews,9,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Giannis Antetokounmpo,40,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Brook Lopez,2,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Grayson Allen,8,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Jrue Holiday,24,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Pat Connaughton,13,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,George Hill,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Jevon Carter,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Serge Ibaka,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Jordan Nwora,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Bobby Portis,14,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Rayjon Tucker,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,17,Luca Vildoza,0,Milwaukee Bucks,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Jayson Tatum,34,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Grant Williams,0,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Al Horford,8,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Jaylen Brown,26,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Marcus Smart,15,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Derrick White,9,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Daniel Theis,11,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Payton Pritchard,4,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Malik Fitts,0,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Luke Kornet,0,Boston Celtics,0
+849550,Boston Celtics,107,Milwaukee Bucks,110,2,Juwan Morgan,0,Boston Celtics,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Javonte Green,3,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Patrick Williams,23,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Nikola Vucevic,19,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,DeMar DeRozan,11,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Ayo Dosunmu,8,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Troy Brown Jr.,10,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Derrick Jones Jr.,9,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Tony Bradley,0,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Marko Simonovic,0,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Matt Thomas,0,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Coby White,17,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,5,Tristan Thompson,0,Chicago Bulls,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Bobby Portis,14,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Giannis Antetokounmpo,33,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Brook Lopez,12,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Wesley Matthews,8,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Jrue Holiday,10,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Grayson Allen,13,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Serge Ibaka,0,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Luca Vildoza,0,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Jordan Nwora,0,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Rayjon Tucker,0,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Pat Connaughton,20,Milwaukee Bucks,0
+842465,Milwaukee Bucks,116,Chicago Bulls,100,17,Jevon Carter,6,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,DeMar DeRozan,18,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Patrick Williams,5,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Nikola Vucevic,24,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Zach LaVine,18,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Alex Caruso,7,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Ayo Dosunmu,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Tony Bradley,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Troy Brown Jr.,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Coby White,12,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Tristan Thompson,2,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Javonte Green,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Derrick Jones Jr.,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,5,Marko Simonovic,0,Chicago Bulls,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Khris Middleton,11,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Giannis Antetokounmpo,27,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Brook Lopez,18,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Wesley Matthews,6,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Grayson Allen,0,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Bobby Portis,10,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Pat Connaughton,3,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Jevon Carter,3,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Thanasis Antetokounmpo,0,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Serge Ibaka,0,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Rayjon Tucker,0,Milwaukee Bucks,0
+832819,Milwaukee Bucks,93,Chicago Bulls,86,17,Luca Vildoza,0,Milwaukee Bucks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Timothe Luwawu-Cabarrot,10,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,De'Andre Hunter,19,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Clint Capela,4,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Kevin Huerter,20,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Trae Young,41,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Bogdan Bogdanovic,20,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Kenrich Williams,0,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Delon Wright,0,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Onyeka Okongwu,3,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Kevin Knox,17,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Lou Williams,2,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,1,Gorgui Dieng,0,Atlanta Hawks,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Aaron Wiggins,13,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Aleksej Pokusevski,13,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Vit Krejci,9,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Theo Maledon,18,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Lindy Waters III,25,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Olivier Sarr,17,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Jeremiah Robinson-Earl,9,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Derrick Favors,0,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Ty Jerome,0,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Tre Mann,0,Oklahoma City Thunder,0
+474551,Oklahoma City Thunder,118,Atlanta Hawks,136,21,Isaiah Roby,14,Oklahoma City Thunder,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Jordan Nwora,18,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Mamadi Diakite,18,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Sandro Mamukelashvili,11,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Theo Pinson,2,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Jalen Crutcher,10,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Steven Enoch,8,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Jemerrio Jones,2,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Jay Huff,0,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Mason Jones,14,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Dewan Hernandez,0,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,DMitrik Trice,8,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Tyree White,2,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Mike Smith,0,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Paul Eboua,4,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Georgios Kalaitzakis,0,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,E.J. Montgomery,0,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,John Mooney,0,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,17,Brandon Randolph,0,Milwaukee Bucks,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Corey Kispert,18,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Isaiah Todd,8,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Jaime Echenique,13,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Caleb Homesley,15,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Xavier Rathan-Mayes,6,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Marques Bolden,0,Washington Wizards,0
+465593,Washington Wizards,93,Milwaukee Bucks,83,30,Asante Gist,2,Washington Wizards,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Andrew Wiggins,9,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Jonathan Kuminga,4,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Draymond Green,4,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Klay Thompson,37,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Jordan Poole,24,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Kevon Looney,8,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Gary Payton II,14,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Nemanja Bjelica,0,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Chris Chiozza,0,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Moses Moody,0,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Clint Capela,19,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Kevin Huerter,20,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Trae Young,33,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Timothe Luwawu-Cabarrot,5,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Delon Wright,3,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Onyeka Okongwu,0,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Lou Williams,5,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Bogdan Bogdanovic,0,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Gorgui Dieng,0,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Jalen Johnson,0,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Kevin Knox,0,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,De'Andre Hunter,11,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,1,Danilo Gallinari,25,Atlanta Hawks,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Juan Toscano-Anderson,0,Golden State Warriors,0
+474511,Atlanta Hawks,121,Golden State Warriors,110,10,Damion Lee,6,Golden State Warriors,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Jimmy Butler,36,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,PJ Tucker,14,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Bam Adebayo,14,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Max Strus,12,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Gabe Vincent,11,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Tyler Herro,3,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Dewayne Dedmon,3,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Caleb Martin,3,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Duncan Robinson,3,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Victor Oladipo,6,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Haywood Highsmith,3,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Udonis Haslem,0,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Markieff Morris,0,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,John Collins,11,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Clint Capela,2,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Kevin Huerter,4,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Trae Young,9,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Delon Wright,7,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Bogdan Bogdanovic,4,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,16,Omer Yurtseven,2,Miami Heat,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,De'Andre Hunter,24,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Danilo Gallinari,9,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Onyeka Okongwu,4,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Jalen Johnson,0,Atlanta Hawks,0
+839444,Atlanta Hawks,86,Miami Heat,110,1,Skylar Mays,0,Atlanta Hawks,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Malik Monk,21,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Stanley Johnson,2,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Anthony Davis,30,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Avery Bradley,6,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Russell Westbrook,17,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Talen Horton-Tucker,9,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Carmelo Anthony,7,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Eric Bledsoe,7,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Isaiah Hartenstein,6,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Luke Kennard,10,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Terance Mann,5,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Brandon Boston Jr.,2,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Justise Winslow,0,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Dwight Howard,7,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Kent Bazemore,1,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Trevor Ariza,5,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Wayne Ellington,0,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,DeAndre Jordan,0,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Nicolas Batum,4,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,14,Austin Reaves,5,Los Angeles Lakers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Marcus Morris,29,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Serge Ibaka,20,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Amir Coffey,3,LA Clippers,0
+474194,LA Clippers,111,Los Angeles Lakers,110,13,Reggie Jackson,25,LA Clippers,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,De'Andre Hunter,20,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Clint Capela,10,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Kevin Huerter,21,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Trae Young,26,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Bogdan Bogdanovic,19,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Delon Wright,3,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Fred VanVleet,12,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Precious Achiuwa,11,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Chris Boucher,18,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Dalano Banton,1,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Malachi Flynn,0,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Armoni Brooks,0,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Justin Champagnie,0,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,David Johnson,0,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Jalen Johnson,0,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Lou Williams,2,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Gorgui Dieng,0,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Danilo Gallinari,0,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Kevin Knox,0,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,1,Skylar Mays,0,Atlanta Hawks,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Scottie Barnes,19,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Thaddeus Young,7,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Svi Mykhailiuk,0,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Pascal Siakam,31,Toronto Raptors,0
+474589,Toronto Raptors,118,Atlanta Hawks,108,28,Khem Birch,5,Toronto Raptors,0
