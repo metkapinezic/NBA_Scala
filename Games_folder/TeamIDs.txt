@@ -1,0 +1,4 @@
+LA Clippers (ID: 13)
+Atlanta Hawks (ID: 1)
+Phoenix Suns (ID: 24)
+Milwaukee Bucks (ID: 17)
