@@ -1,4 +1,4 @@
-# NBA_scala
+# NBA_Scala
 
 The NBA Data ETL Project aims to extract and transform NBA game data stored in JSON format. The project utilizes Apache Spark and the Scala programming language to perform data transformation, join operations, and generate a final output in CSV format. The goal is to provide a clear and organized summary of NBA game statistics, including the total points scored by each player and the number of steals recorded in each game based on the following requerements:
  - request HTTP APIs
